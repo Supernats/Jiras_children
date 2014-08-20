@@ -1,5 +1,8 @@
 # Jira's Children
 
-WIP existential choose your own adventure detective novel
+## WIP
 
-STILL IN ALPHA PUBLIC API SUBJECT TO CHANGE
+
+### STILL IN ALPHA PUBLIC API SUBJECT TO CHANGE
+
+thx
