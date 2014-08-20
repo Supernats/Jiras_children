@@ -1,0 +1,52 @@
+0/111/0/or/whatever:
+                                                                   ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  THINGS:
+    ☐ differentiate new stuff,
+                ☐ from the old.
+
+ ☐ I am tasked everything
+
+ ☐ I am tasked to fix all the things
+
+-------------------------------------
+
+  ## ✔ validate input:
+     ☐ REQUIRES RESEARCH AND MAGIC!
+     ☐ try to shove on http:// if possible @done (14-07-16 10:20)
+          ☐ try to remember to upgrade to ☐ SSL ☐ version of the internet
+
+      ☐ * Limit content to 2 plain text characters for all fields
+      ☐ * Link to open asynchronous lightbox always
+      ☐ * Support for "featured" social share options
+        REGISTER:
+          ☐ MAKE IT PASS THE HTML SPEC CUZ ITS SO STUPID TO BREAK IT
+
+==============MEDIA-CONTENT-BUGS===========================
+ ☐ DO IMAGE THING TO VIDEOS
+ ☐ INVESTIGATE OTHER TERRIBLE SELECT OPTIONS
+ ☐ SIDEBAR FOR TABS!!!!!
+ ☐ DOWNCASE ALL  USER EMAIL (content))EVERYWHERE!
+
+
+##### USERS?:
+   ☐ on wireframe, add new iteration of the intake flow
+   ☐ NO RESOURCE, RESOURCES ONLY!
+   ☐ *HIDE POSITIONAL SORTING ON FRONT PAGE
+     ☐ ADD POSITIONAL SORTING TO RESOURCE PAGES
+       ☐ BUT BOTH SHOULD RETURN SAME TYPE OF OBJECT AS FAR AS VIEWS ARE CONCERNED.
+
+ POSSIBLE BLOCKER HELL:
+    ☐ from wizzywig
+      ☐ MUST 'SEE' the IFRAME and execute arbitrary javascript within it.
+           ☐ ☐ ☐  responsively
+      ☐ && GET THE CALLBACK
+
+IMHO best approach is to provide the absolute simplest interface from the start:
+
+   ________________________________________________________________
+NOT DONE:
+  *any* of this ""~~~work~~~~""
+  I forsee it taking between 1 and 17 hours to complete
+      for a weighted score of 38 story points for this sprint.
