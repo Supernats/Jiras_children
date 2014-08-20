@@ -1,8 +1,7 @@
 # Jira's Children
 
-## WIP
+## Our origin
 
+### Is in pain
 
-### STILL IN ALPHA PUBLIC API SUBJECT TO CHANGE
-
-thx
+#### But I promise you endless riches
