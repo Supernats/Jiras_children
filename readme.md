@@ -1,16 +1,6 @@
 # Jira's Children
 
-## WIP
+This is the "GITHUB-PAGES" branch. Do not edit or make PR's hear.
 
-OK SO LIKE instead of "chapters" this book has "branches"
-
-and instead of being a "book" this is a "git repo"
-
-[Oh Why Here Is One Now!](https://github.com/coleww/Jiras_children/tree/origins)
-
-### STILL IN ALPHA PUBLIC API SUBJECT TO CHANGE
-
-#### forking and pull requesting is welcome.
-
-thx
+They will be denied or potentially merged into another completely un-related branch.
 
